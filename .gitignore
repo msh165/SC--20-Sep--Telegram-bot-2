@@ -1,1 +1,4 @@
 .env
+x
+virtal_env/
+__pycache__/

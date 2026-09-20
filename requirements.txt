@@ -1,0 +1,7 @@
+python-telegram-bot>=21
+python-dotenv
+langchain>=1.0
+langgraph
+langchain-groq
+python-dotenv
+langchain-google-genai
